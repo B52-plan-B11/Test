@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "SlimeVillage",
+      "version": "0.6.3",
+      "features": "HackFeatures",
+      "img": "https://example.com/slime_icon.png"
+    },
+    {
+      "name": "PUBG MOBILE",
+      "version": "3.3",
+      "features": "ESP AIMBOT",
+      "img": "https://example.com/pubg_icon.png"
+    }
+  ]
+}
