@@ -2,7 +2,12 @@
   {
     "name": "Video Star",
     "image": "https://hell-store.netlify.app/img/video.png",
-    "url": "itms-services://?action=download-manifest&url=https://hell-store.netlify.app/plist/video.plist"
+    "url": "itms-services://?action=download-manifest&url=https://b52-plan-b11.github.io/Test/esign.plist"
+  },
+  {
+    "name": "ESign",
+    "image": "https://hell-store.netlify.app/img/esign.png",
+    "url": "itms-services://?action=download-manifest&url=https://hell-store.netlify.app/plist/esign.plist"
   },
   {
     "name": "ESign",
