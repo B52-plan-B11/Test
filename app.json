@@ -1,16 +1,12 @@
-{
-  "apps": [
-    {
-      "name": "SlimeVillage",
-      "version": "0.6.3",
-      "features": "HackFeatures",
-      "img": "https://example.com/slime_icon.png"
-    },
-    {
-      "name": "PUBG MOBILE",
-      "version": "3.3",
-      "features": "ESP AIMBOT",
-      "img": "https://example.com/pubg_icon.png"
-    }
-  ]
-}
+[
+  {
+    "name": "Video Star",
+    "image": "https://hell-store.netlify.app/img/video.png",
+    "url": "itms-services://?action=download-manifest&url=https://hell-store.netlify.app/plist/video.plist"
+  },
+  {
+    "name": "ESign",
+    "image": "https://hell-store.netlify.app/img/esign.png",
+    "url": "itms-services://?action=download-manifest&url=https://hell-store.netlify.app/plist/esign.plist"
+  }
+]
